@@ -1,4 +1,4 @@
-# Desafio 02 - Front-end com ReactJS
+# Desafio 02 - Conceitos do ReactJS
 
 ## :rocket: Sobre o desafio
 
